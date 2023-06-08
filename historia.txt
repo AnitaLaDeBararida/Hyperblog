@@ -2,6 +2,10 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nacio en Colombia
 
+<<<<<<< HEAD
 Anita Github es una persona que contribuye a este proyecto open source y  nacio en Internet
+=======
+Anita Github es una persona que contribuye a este proyecto open source y nacio en Internet
+>>>>>>> 7a73aab0fff487c5e5385a1320faefb1c06a2480
 
 Mañana nos enfocaremos en su vida laboral
